@@ -1,0 +1,164 @@
+PS C:\Users\janin\Ashok Java> javac ExpenseTracker.java
+PS C:\Users\janin\Ashok Java> javac Transaction.java
+PS C:\Users\janin\Ashok Java> javac ExpenseTracker.java
+PS C:\Users\janin\Ashok Java> java ExpenseTracker      
+ Expense Tracker 
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 1
+Enter category (e.g., Salary, Food, Rent): Salary
+Enter amount: 10000
+Income added.
+Monthly Summary
+-------------------
+MAY - Income - Salary: 10000.0rs
+Current Amount : 10000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 2
+Enter category (e.g., Salary, Food, Rent): Food
+Enter amount: 5000
+Expense added.
+Monthly Summary
+-------------------
+MAY - Expense - Food: 5000.0rs
+MAY - Income - Salary: 10000.0rs
+Current Amount : 5000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 3
+Monthly Summary
+-------------------
+MAY - Expense - Food: 5000.0rs
+MAY - Income - Salary: 10000.0rs
+Current Amount : 5000.0
+ Expense Tracker 
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 5
+Enter filename to load (e.g., transactions): transaction2
+Data loaded from transaction2
+Monthly Summary
+-------------------
+MAY - Income - Salary: 1000.0rs
+Current Amount : 1000.0
+ Expense Tracker 
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 1
+Enter category (e.g., Salary, Food, Rent): Salary
+Enter amount: 30000
+Income added.
+Monthly Summary
+-------------------
+MAY - Income - Salary: 31000.0rs
+Current Amount : 31000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 2
+Enter category (e.g., Salary, Food, Rent): Food
+Enter amount: 6000
+Expense added.
+Monthly Summary
+-------------------
+MAY - Expense - Food: 6000.0rs
+MAY - Income - Salary: 31000.0rs
+Current Amount : 25000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 2    
+Enter category (e.g., Salary, Food, Rent): Rent 
+Enter amount: 8000
+Expense added.
+Monthly Summary
+-------------------
+MAY - Expense - Food: 6000.0rs
+MAY - Expense - Rent: 8000.0rs
+MAY - Income - Salary: 31000.0rs
+Current Amount : 17000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 4
+Give a File Name:Transaction3
+Data saved to Transaction3.txt
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option: 5
+Enter filename to load (e.g., transactions): Transaction3
+Data loaded from Transaction3
+Monthly Summary
+-------------------
+MAY - Expense - Food: 6000.0rs
+MAY - Expense - Rent: 8000.0rs
+MAY - Income - Salary: 31000.0rs
+Current Amount : 17000.0
+ Expense Tracker
+--------------------
+1. Add Income
+2. Add Expense
+3. View Monthly Summary
+4. Save to File
+5. Load from File
+6. Exit
+
+Choose an option:   
